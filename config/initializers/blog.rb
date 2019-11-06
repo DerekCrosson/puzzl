@@ -1,0 +1,1 @@
+Blog.author_class = "User"
